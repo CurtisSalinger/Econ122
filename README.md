@@ -4,3 +4,5 @@ Testing from a second computer
 testing from terminal
 
 post reset
+
+through R comp 1
