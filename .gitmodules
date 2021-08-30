@@ -1,3 +1,6 @@
 [submodule "test-assignment-CurtisSalinger"]
 	path = test-assignment-CurtisSalinger
 	url = https://github.com/econ122-f21/test-assignment-CurtisSalinger
+[submodule "gome"]
+	path = gome
+	url = https://github.com/econ122-f21/home.git
