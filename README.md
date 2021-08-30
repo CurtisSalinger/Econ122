@@ -1,4 +1,1 @@
-I made a repo successfully from remote
-
-
-Here is a change
+This is my Repository for Econ122
